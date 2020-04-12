@@ -1,3 +1,3 @@
 
 
-### Morris js  chart with php and mysql
+### Morris js php and mysql
